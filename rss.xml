@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[GeroOf Site's RSS Feed]]></title><description><![CDATA[GeroOf の紹介ページ]]></description><link>https://geroof.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 16 Nov 2020 14:49:56 GMT</lastBuildDate><item><title><![CDATA[GeroOf MyPage About]]></title><description><![CDATA[このページについて GeroOfの各種紹介ページ スキルセット/ポートフォリオ 要件定義: 2年程度？(明確なフェーズ分けがされた業務がなかったため不明) 設計/開発/テスト: 10年以上? 保守/サポート: 4年(しばらくしてない) 業務で長期利用 Windows 10:…]]></description><link>https://geroof.github.io/about</link><guid isPermaLink="false">https://geroof.github.io/about</guid><pubDate>Fri, 31 Dec 9999 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;このページについて&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[GeroOf Site's RSS Feed]]></title><description><![CDATA[GeroOf の紹介ページ]]></description><link>https://geroof.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 21 Dec 2020 08:56:19 GMT</lastBuildDate><item><title><![CDATA[GeroOf MyPage About]]></title><description><![CDATA[このページについて GeroOfの各種紹介ページ スキルセット/ポートフォリオ 要件定義: 2年程度？(明確なフェーズ分けがされた業務がなかったため不明) 設計/開発/テスト: 10年以上? 保守/サポート: 4年(しばらくしてない) 業務で長期利用 Windows 10:…]]></description><link>https://geroof.github.io/about</link><guid isPermaLink="false">https://geroof.github.io/about</guid><pubDate>Fri, 31 Dec 9999 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;このページについて&lt;/h2&gt;
 &lt;p&gt;GeroOfの各種紹介ページ&lt;/p&gt;
 &lt;h2&gt;スキルセット/ポートフォリオ&lt;/h2&gt;
 &lt;ul&gt;
@@ -147,6 +147,15 @@
 &lt;li&gt;VC++: 4年以上&lt;/li&gt;
 &lt;li&gt;ansible: 1ヶ月&lt;/li&gt;
 &lt;li&gt;(自動車のプロトコル、規格)asam MCD(asap3/MDF等): 4年以上&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Who You Are(フーユーアー)君の真の言葉と行動こそが困難を生き抜くチームをつくる]]></title><description><![CDATA[hard things…]]></description><link>https://geroof.github.io/posts/2020-12-21-post</link><guid isPermaLink="false">https://geroof.github.io/posts/2020-12-21-post</guid><pubDate>Mon, 21 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;iframe style=&quot;width:120px;height:240px;&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; src=&quot;//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=gyokojp-22&amp;language=ja_JP&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=as_ss_li_til&amp;asins=4822288811&amp;linkId=c83708e3b54c563f7ed870bf9f7c289c&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;hard thingsの作者の続編。
+武士、チンギス・ハン、シャカ・サンゴールなどの例を使って、文化とはどう作り上げるべきかを書いている。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;行動規範を明文化する。&lt;/li&gt;
+&lt;li&gt;リーダーが行動を持って示す。有言実行&lt;/li&gt;
+&lt;li&gt;どういう文化が合うかは組織によって異なる&lt;/li&gt;
+&lt;li&gt;ショッキングなルールで文化の刷り込みをする&lt;/li&gt;
+&lt;li&gt;外部のリーダーを必要な時は使う&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Reactビギナーズガイド]]></title><description><![CDATA[基本的なreactの考え方は学べる 描画は基本的に状態(state)更新時 fluxに関しては考え方自体は把握する必要があるが実際はredux等を利用(そもそも react hooksで利用しない可能性大)]]></description><link>https://geroof.github.io/posts/2020-11-16-post</link><guid isPermaLink="false">https://geroof.github.io/posts/2020-11-16-post</guid><pubDate>Mon, 16 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;iframe style=&quot;width:120px;height:240px;&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; src=&quot;//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=gyokojp-22&amp;language=ja_JP&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=as_ss_li_til&amp;asins=4873117887&amp;linkId=ea94f1a7beeb9bbff6966d45e5be36b8&quot;&gt;&lt;/iframe&gt;
 &lt;ul&gt;
 &lt;li&gt;基本的なreactの考え方は学べる&lt;/li&gt;
