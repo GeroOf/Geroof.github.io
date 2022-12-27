@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[GeroOf MyPage]]></title><description><![CDATA[GeroOf の紹介ページ]]></description><link>https://geroof.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 29 Nov 2022 13:37:14 GMT</lastBuildDate><item><title><![CDATA[GeroOf MyPage About]]></title><description><![CDATA[このページについて GeroOfの各種紹介ページ 現行の経歴 2020/10 ~ OS/Container Linux:CentOS 7 Docker:alpine Docker:ubuntu PHP Codeigniter 3 Laravel 6 Golang gin gorm…]]></description><link>https://geroof.github.io/about/</link><guid isPermaLink="false">https://geroof.github.io/about/</guid><pubDate>Fri, 31 Dec 9999 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;このページについて&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[GeroOf MyPage]]></title><description><![CDATA[GeroOf の紹介ページ]]></description><link>https://geroof.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 27 Dec 2022 22:35:56 GMT</lastBuildDate><item><title><![CDATA[GeroOf MyPage About]]></title><description><![CDATA[このページについて GeroOfの各種紹介ページ 現行の経歴 2020/10 ~ OS/Container Linux:CentOS 7 Docker:alpine Docker:ubuntu PHP Codeigniter 3 Laravel 6 Golang gin gorm…]]></description><link>https://geroof.github.io/about/</link><guid isPermaLink="false">https://geroof.github.io/about/</guid><pubDate>Fri, 31 Dec 9999 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;このページについて&lt;/h2&gt;
 &lt;p&gt;GeroOfの各種紹介ページ&lt;/p&gt;
 &lt;h2&gt;現行の経歴&lt;/h2&gt;
 &lt;h3&gt;2020/10 ~&lt;/h3&gt;
@@ -179,6 +179,80 @@
 &lt;li&gt;VC++: 4年以上&lt;/li&gt;
 &lt;li&gt;ansible: 1ヶ月&lt;/li&gt;
 &lt;li&gt;(自動車のプロトコル、規格)asam MCD(asap3/MDF等): 4年以上&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[2022年の技術的振り返り]]></title><description><![CDATA[今年は既存知識を掘り下げるのが多かったな。あとはクラウドインフラ構築周りとかが多かった(管理対象インフラが増えてきたのでIaCしないと…) 仕事で触った Windows 10/11 linux cent AlmaLinux debian alpine PHP 8.x…]]></description><link>https://geroof.github.io/posts/2022-12-28-post/</link><guid isPermaLink="false">https://geroof.github.io/posts/2022-12-28-post/</guid><pubDate>Wed, 28 Dec 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;今年は既存知識を掘り下げるのが多かったな。あとはクラウドインフラ構築周りとかが多かった(管理対象インフラが増えてきたのでIaCしないと…)&lt;/p&gt;
+&lt;h2&gt;仕事で触った&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows 10/11&lt;/li&gt;
+&lt;li&gt;linux
+&lt;ul&gt;
+&lt;li&gt;cent&lt;/li&gt;
+&lt;li&gt;AlmaLinux&lt;/li&gt;
+&lt;li&gt;debian&lt;/li&gt;
+&lt;li&gt;alpine&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;PHP 8.x
+&lt;ul&gt;
+&lt;li&gt;laravel&lt;/li&gt;
+&lt;li&gt;codeigniter 4&lt;/li&gt;
+&lt;li&gt;AWS SDK&lt;/li&gt;
+&lt;li&gt;PDF Library&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;nodejs/js
+&lt;ul&gt;
+&lt;li&gt;ReactJS/React Hooks&lt;/li&gt;
+&lt;li&gt;puppeteer&lt;/li&gt;
+&lt;li&gt;jest&lt;/li&gt;
+&lt;li&gt;sequelize&lt;/li&gt;
+&lt;li&gt;yup&lt;/li&gt;
+&lt;li&gt;amChart&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;HTML/CSS
+&lt;ul&gt;
+&lt;li&gt;mui(Material UI)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;GraphQL
+&lt;ul&gt;
+&lt;li&gt;Apollo Server&lt;/li&gt;
+&lt;li&gt;Apollo Client&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;vagrant&lt;/li&gt;
+&lt;li&gt;docker / docker-compose
+&lt;ul&gt;
+&lt;li&gt;マルチステージビルド&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;AWS
+&lt;ul&gt;
+&lt;li&gt;EC2&lt;/li&gt;
+&lt;li&gt;ECS/ECR&lt;/li&gt;
+&lt;li&gt;Graviton2 対応 (調査だけ)&lt;/li&gt;
+&lt;li&gt;RDS (Aurora)&lt;/li&gt;
+&lt;li&gt;Lambda (コンテナ起動)&lt;/li&gt;
+&lt;li&gt;ALB&lt;/li&gt;
+&lt;li&gt;CloudWatch&lt;/li&gt;
+&lt;li&gt;Log Insight&lt;/li&gt;
+&lt;li&gt;SQS&lt;/li&gt;
+&lt;li&gt;AWS Batch&lt;/li&gt;
+&lt;li&gt;EventBridge&lt;/li&gt;
+&lt;li&gt;VPC周り(VPCピアリング/PrivateLink)&lt;/li&gt;
+&lt;li&gt;minio (S3エミュレート)&lt;/li&gt;
+&lt;li&gt;LocalStack (SQSエミュレート)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;CircleCI&lt;/li&gt;
+&lt;li&gt;Github&lt;/li&gt;
+&lt;li&gt;Github Action&lt;/li&gt;
+&lt;li&gt;Github Package&lt;/li&gt;
+&lt;li&gt;PDF(wkhtmltopdf)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;個人的に触った&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GatsbyJS&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[ソフトウェアテストをカイゼンする50のアイデア]]></title><link>https://geroof.github.io/posts/2022-11-29-post/</link><guid isPermaLink="false">https://geroof.github.io/posts/2022-11-29-post/</guid><pubDate>Tue, 29 Nov 2022 00:00:00 GMT</pubDate><content:encoded>&lt;iframe sandbox=&quot;allow-popups allow-scripts allow-modals allow-forms allow-same-origin&quot; style=&quot;width:120px;height:240px;&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; src=&quot;//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=gyokojp-22&amp;language=ja_JP&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=as_ss_li_til&amp;asins=4798176060&amp;linkId=476f276be69385c7a7d198e5c9d2de7b&quot;&gt;&lt;/iframe&gt;</content:encoded></item><item><title><![CDATA[良いコード/悪いコードで学ぶ設計入門 ―保守しやすい 成長し続けるコードの書き方]]></title><description><![CDATA[通称「ミノ駆動本」。設計知識の再点検にはなりました。ただ2022年現在によく使われている GraphQL+React とかの場合は丸々使うと若干ずれた仰々しい設計になるので気をつけないといけないかな。]]></description><link>https://geroof.github.io/posts/2022-09-28-post/</link><guid isPermaLink="false">https://geroof.github.io/posts/2022-09-28-post/</guid><pubDate>Wed, 28 Sep 2022 00:00:00 GMT</pubDate><content:encoded>&lt;iframe sandbox=&quot;allow-popups allow-scripts allow-modals allow-forms allow-same-origin&quot; style=&quot;width:120px;height:240px;&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; src=&quot;//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=gyokojp-22&amp;language=ja_JP&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=as_ss_li_til&amp;asins=4297127830&amp;linkId=32d9b536154b6fd32ba87daeb3223f5f&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;通称「ミノ駆動本」。設計知識の再点検にはなりました。ただ2022年現在によく使われている GraphQL+React とかの場合は丸々使うと若干ずれた仰々しい設計になるので気をつけないといけないかな。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[ピアリング戦記 インターネットを繋ぐ技術者たち]]></title><description><![CDATA[「インターネットのかたち」の著者の書籍。ISPやコンテンツプロバイダ、キャリアが互いにBGPを使ったピアリングで繋がるためには技術要素よりも金、力、政治が必要という話]]></description><link>https://geroof.github.io/posts/2022-08-14-post/</link><guid isPermaLink="false">https://geroof.github.io/posts/2022-08-14-post/</guid><pubDate>Sun, 14 Aug 2022 00:00:00 GMT</pubDate><content:encoded>&lt;iframe sandbox=&quot;allow-popups allow-scripts allow-modals allow-forms allow-same-origin&quot; style=&quot;width:120px;height:240px;&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; src=&quot;//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=gyokojp-22&amp;language=ja_JP&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=as_ss_li_til&amp;asins=4908686149&amp;linkId=f355cfcc5c6e1e44efee93becb854054&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;「インターネットのかたち」の著者の書籍。ISPやコンテンツプロバイダ、キャリアが互いにBGPを使ったピアリングで繋がるためには技術要素よりも金、力、政治が必要という話&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Web集客・超入門2022【仕組み化対応】これを知らずにWebマーケティング成功はあり得ない！ホームページ集客成功のための基礎知識を徹底解説！ 1日速習シリーズ]]></title><link>https://geroof.github.io/posts/2022-08-01-post/</link><guid isPermaLink="false">https://geroof.github.io/posts/2022-08-01-post/</guid><pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate><content:encoded>&lt;iframe sandbox=&quot;allow-popups allow-scripts allow-modals allow-forms allow-same-origin&quot; style=&quot;width:120px;height:240px;&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; src=&quot;//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=gyokojp-22&amp;language=ja_JP&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=as_ss_li_til&amp;asins=B081YQ4MMX&amp;linkId=d5d08d536eced8b850b85a292f3dc094&quot;&gt;&lt;/iframe&gt;</content:encoded></item><item><title><![CDATA[システム運用アンチパターン]]></title><description><![CDATA[メモ DevOpsを構成するもの：DevOpsはソフトウェア開発の考え方を他の役割(ここでは運用)に適用する手法。ライフサイクルに関わる全てのチームに責任を共有。CAMS(文化：culture,自動化：automation,メトリクス：metrics,共有：sharing…]]></description><link>https://geroof.github.io/posts/2022-06-19-post/</link><guid isPermaLink="false">https://geroof.github.io/posts/2022-06-19-post/</guid><pubDate>Sun, 19 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;iframe sandbox=&quot;allow-popups allow-scripts allow-modals allow-forms allow-same-origin&quot; style=&quot;width:120px;height:240px;&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; src=&quot;//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=gyokojp-22&amp;language=ja_JP&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=as_ss_li_til&amp;asins=4873119847&amp;linkId=2d0197d7763fca2bae51161ef12f1132&quot;&gt;&lt;/iframe&gt;
