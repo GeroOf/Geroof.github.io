@@ -1,0 +1,1 @@
+{"pageProps":{"post":{"title":"良いコード/悪いコードで学ぶ設計入門 ―保守しやすい 成長し続けるコードの書き方","date":"2022-09-28","slug":"2022-09-28-post","author":{"name":"GeroOf","picture":"/assets/blog/authors/geroof.png"},"content":"<p>通称「ミノ駆動本」。設計知識の再点検にはなりました。ただ2022年現在によく使われている GraphQL+React とかの場合は丸々使うと若干ずれた仰々しい設計になるので気をつけないといけないかな。</p>\n","ogImage":{"url":"/assets/blog/authors/geroof.png"}}},"__N_SSG":true}

@@ -1,0 +1,1 @@
+{"pageProps":{"post":{"title":"AWSコンテナ設計・構築[本格]入門","date":"2022-04-23","slug":"2022-04-23-post","author":{"name":"GeroOf","picture":"/assets/blog/authors/geroof.png"},"content":"<p>2021年時点でのAWS ECS/Fargateを使ったDockerコンテナ/クラウド設計及びDevOpsを組むためのハンズオンの書籍。Well-Architected や 12 Factor Appの設計に関する詳細は別途学習したい。</p>\n","ogImage":{"url":"/assets/blog/authors/geroof.png"}}},"__N_SSG":true}
