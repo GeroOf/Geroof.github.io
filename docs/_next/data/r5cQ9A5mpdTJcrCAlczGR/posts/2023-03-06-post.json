@@ -1,1 +1,0 @@
-{"pageProps":{"post":{"title":"プログラマーのためのCPU入門 CPUは如何にしてソフトウェアを高速に実行するか","date":"2023-03-06","slug":"2023-03-06-post","author":{"name":"GeroOf","picture":"/assets/blog/authors/geroof.png"},"content":"<p>応用情報の資格試験の勉強でCPU周りの話はうっすらやった記憶があるけど、マルチプロセッサにおけるパフォーマンスに影響を与える要因(キャッシュコヒーレンス、メモリ順序付、不可分操作)に関しては初めてだった。</p>\n","ogImage":{"url":"/assets/blog/authors/geroof.png"}}},"__N_SSG":true}
