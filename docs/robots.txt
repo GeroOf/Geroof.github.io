@@ -1,9 +1,4 @@
-# *
 User-agent: *
 Allow: /
 
-# Host
-Host: https://geroof.github.io/
-
-# Sitemaps
 Sitemap: https://geroof.github.io/sitemap.xml
