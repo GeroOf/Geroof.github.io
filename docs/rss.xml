@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GeroOf MyPage.</title>
+    <link>https://geroof.github.io</link>
+    <description>GeroOf の紹介ページ.</description>
+    <atom:link href="https://geroof.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>はじめて学ぶ最新サイバーセキュリティ講義　「都市伝説」と「誤解」を乗り越え、正しい知識と対策を身につける</title>
+      <link>https://geroof.github.io/posts/2024-05-28-post</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>世界一流エンジニアの思考法</title>
+      <link>https://geroof.github.io/posts/2024-03-16-post</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>就職氷河期世代のキャリア形成とデフレ/インフレ論争について</title>
+      <link>https://geroof.github.io/posts/2024-01-08-post</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Happy New Year 2024</title>
+      <link>https://geroof.github.io/posts/2024-01-01-post</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023年の技術的振り返り</title>
+      <link>https://geroof.github.io/posts/2023-12-26-post</link>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>スタッフエンジニア　マネジメントを超えるリーダーシップ</title>
+      <link>https://geroof.github.io/posts/2023-10-30-post</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ユーザーの問題解決とプロダクトの成功を導く　エンジニアのためのドキュメントライティング</title>
+      <link>https://geroof.github.io/posts/2023-08-14-post</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AWSではじめるクラウドセキュリティ: クラウドで学ぶセキュリティ設計/実装</title>
+      <link>https://geroof.github.io/posts/2023-04-23-post</link>
+      <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>プログラマーのためのCPU入門 CPUは如何にしてソフトウェアを高速に実行するか</title>
+      <link>https://geroof.github.io/posts/2023-03-06-post</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AWSで実現するモダンアプリケーション入門 〜サーバーレス、コンテナ、マイクロサービスで何ができるのか</title>
+      <link>https://geroof.github.io/posts/2023-02-26-post</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>継続的デリバリーのソフトウェア工学　もっと早く、もっと良いソフトウェアを作るための秘訣</title>
+      <link>https://geroof.github.io/posts/2023-02-21-post</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>プロジェクトマネジメント標準PMBOK入門: (PMBOK第7版対応版)</title>
+      <link>https://geroof.github.io/posts/2023-01-03-post</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Happy New Year 2023</title>
+      <link>https://geroof.github.io/posts/2023-01-02-post</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2022年の技術的振り返り</title>
+      <link>https://geroof.github.io/posts/2022-12-28-post</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ソフトウェアテストをカイゼンする50のアイデア</title>
+      <link>https://geroof.github.io/posts/2022-11-29-post</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>良いコード/悪いコードで学ぶ設計入門 ―保守しやすい 成長し続けるコードの書き方</title>
+      <link>https://geroof.github.io/posts/2022-09-28-post</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ピアリング戦記 インターネットを繋ぐ技術者たち</title>
+      <link>https://geroof.github.io/posts/2022-08-14-post</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web集客・超入門2022【仕組み化対応】これを知らずにWebマーケティング成功はあり得ない！ホームページ集客成功のための基礎知識を徹底解説！ 1日速習シリーズ</title>
+      <link>https://geroof.github.io/posts/2022-08-01-post</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>システム運用アンチパターン</title>
+      <link>https://geroof.github.io/posts/2022-06-19-post</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AWSコンテナ設計・構築【本格】入門</title>
+      <link>https://geroof.github.io/posts/2022-04-23-post</link>
+      <pubDate>Sat, 23 Apr 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Happy New Year 2022</title>
+      <link>https://geroof.github.io/posts/2022-01-01-post</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>図解即戦力 Google Cloudのしくみと技術がこれ1冊でしっかりわかる教科書</title>
+      <link>https://geroof.github.io/posts/2021-12-31-post</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2021年の技術的振り返り</title>
+      <link>https://geroof.github.io/posts/2021-12-30-post</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>図解即戦力 Web技術がこれ1冊でしっかりわかる教科書</title>
+      <link>https://geroof.github.io/posts/2021-11-27-post</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>図解即戦力 暗号と認証のしくみと理論がこれ1冊でしっかりわかる教科書</title>
+      <link>https://geroof.github.io/posts/2021-10-23-post</link>
+      <pubDate>Sat, 23 Oct 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>プロセスエコノミー あなたの物語が価値になる</title>
+      <link>https://geroof.github.io/posts/2021-10-10-post</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>デジタルアイデンティティー 経営者が知らないサイバービジネスの核心</title>
+      <link>https://geroof.github.io/posts/2021-08-15-post</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ユニコーン企業のひみつ</title>
+      <link>https://geroof.github.io/posts/2021-06-19-post</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ソフトウェア品質を高める開発者テスト アジャイル時代の実践的・効率的なテストのやり方</title>
+      <link>https://geroof.github.io/posts/2021-06-02-post</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>モノリスからマイクロサービスへ ―モノリスを進化させる実践移行ガイド</title>
+      <link>https://geroof.github.io/posts/2021-05-05-post</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Engineers in VOYAGE ― 事業をエンジニアリングする技術者たち</title>
+      <link>https://geroof.github.io/posts/2021-04-17-post</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Webブラウザセキュリティ Webアプリケーションの安全性を支える仕組みを整理する</title>
+      <link>https://geroof.github.io/posts/2021-03-30-post</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>達人プログラマー(第2版): 熟達に向けたあなたの旅</title>
+      <link>https://geroof.github.io/posts/2021-02-28-post</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Happy New Year 2021</title>
+      <link>https://geroof.github.io/posts/2021-01-01-post</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2020年の技術的振り返り</title>
+      <link>https://geroof.github.io/posts/2020-12-29-post</link>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Who You Are(フーユーアー)君の真の言葉と行動こそが困難を生き抜くチームをつくる</title>
+      <link>https://geroof.github.io/posts/2020-12-21-post</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reactビギナーズガイド</title>
+      <link>https://geroof.github.io/posts/2020-11-16-post</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>10年つかえるSEOの基本</title>
+      <link>https://geroof.github.io/posts/2020-10-27-post</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>オブジェクト指向UIデザイン──使いやすいソフトウェアの原理</title>
+      <link>https://geroof.github.io/posts/2020-10-10-post</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>More Effective Agile 〜 ソフトウェアリーダーになるための28の道標</title>
+      <link>https://geroof.github.io/posts/2020-09-12-post</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
