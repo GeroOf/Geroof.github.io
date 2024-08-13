@@ -6,6 +6,11 @@
     <description>GeroOf の紹介ページ.</description>
     <atom:link href="https://geroof.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>［入門］ドメイン駆動設計――基礎と実践・クリーンアーキテクチャ (Software Design別冊)</title>
+      <link>https://geroof.github.io/posts/2024-08-13-post</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>崖っぷちだったアメリカ任天堂を復活させた男</title>
       <link>https://geroof.github.io/posts/2024-06-27-post</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
