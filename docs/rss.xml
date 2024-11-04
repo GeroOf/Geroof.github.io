@@ -6,6 +6,11 @@
     <description>GeroOf の紹介ページ.</description>
     <atom:link href="https://geroof.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Web API設計実践入門──API仕様ファーストによるテスト駆動開発</title>
+      <link>https://geroof.github.io/posts/2024-11-04-post</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>［入門］ドメイン駆動設計――基礎と実践・クリーンアーキテクチャ (Software Design別冊)</title>
       <link>https://geroof.github.io/posts/2024-08-13-post</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 GMT</pubDate>
