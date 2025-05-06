@@ -6,6 +6,11 @@
     <description>GeroOf の紹介ページ.</description>
     <atom:link href="https://geroof.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>DNSがよくわかる教科書</title>
+      <link>https://geroof.github.io/posts/2025-05-07-post</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>アーキテクトの教科書 価値を生むソフトウェアのアーキテクチャ構築</title>
       <link>https://geroof.github.io/posts/2025-02-10-post</link>
       <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
