@@ -6,6 +6,11 @@
     <description>GeroOf の紹介ページ.</description>
     <atom:link href="https://geroof.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>A Happy New Year 2026</title>
+      <link>https://geroof.github.io/posts/2026-01-01-post/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>2025年の技術的振り返り</title>
       <link>https://geroof.github.io/posts/2025-12-30-post/</link>
       <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
