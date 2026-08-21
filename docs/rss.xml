@@ -6,6 +6,12 @@
     <description>GeroOf の紹介ページ.</description>
     <atom:link href="https://geroof.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Mermaid図のビルド時PNG出力に対応しました</title>
+      <link>https://geroof.github.io/posts/2026-08-21-post/</link>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <description>MDX投稿のMermaidコードブロックをSSGビルド時にPNGへ変換・可逆圧縮し、遅延読み込み画像として配信する仕組みと使い方を説明します。</description>
+    </item>
+    <item>
       <title>バイブコーディングを超えて ―AI時代を生き抜く開発者の未来</title>
       <link>https://geroof.github.io/posts/2026-04-12-post/</link>
       <pubDate>Sun, 12 Apr 2026 00:00:00 GMT</pubDate>
