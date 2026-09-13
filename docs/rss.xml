@@ -6,6 +6,11 @@
     <description>GeroOf の紹介ページ.</description>
     <atom:link href="https://geroof.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>テクノロジカル・リパブリック　国家、軍事力、テクノロジーの未来</title>
+      <link>https://geroof.github.io/posts/2026-09-13-post/</link>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Mermaid図のビルド時PNG出力に対応しました</title>
       <link>https://geroof.github.io/posts/2026-08-21-post/</link>
       <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
