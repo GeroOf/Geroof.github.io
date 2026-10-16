@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GeroOf MyPage.</title>
-    <link>https://geroof.github.io</link>
-    <description>GeroOf の紹介ページ.</description>
+    <link>https://geroof.github.io/</link>
+    <description>GeroOfの個人ブログ。ソフトウェア開発の記録、技術書の読書メモ、年ごとの振り返りや時事の考察を掲載しています。</description>
     <atom:link href="https://geroof.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>テクノロジカル・リパブリック　国家、軍事力、テクノロジーの未来</title>
       <link>https://geroof.github.io/posts/2026-09-13-post/</link>
       <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
+      <description>『テクノロジカル・リパブリック』を読み、国家、軍事、テクノロジーへの関わり方について記した短い読書メモです。</description>
     </item>
     <item>
       <title>Mermaid図のビルド時PNG出力に対応しました</title>
@@ -20,351 +21,421 @@
       <title>バイブコーディングを超えて ―AI時代を生き抜く開発者の未来</title>
       <link>https://geroof.github.io/posts/2026-04-12-post/</link>
       <pubDate>Sun, 12 Apr 2026 00:00:00 GMT</pubDate>
+      <description>『バイブコーディングを超えて』を読了したメモです。開発者の基本概念と、紹介されるツールについて感じたことを記しています。</description>
     </item>
     <item>
       <title>AIエージェント関連</title>
       <link>https://geroof.github.io/posts/2026-03-15-post/</link>
       <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+      <description>AIエージェントを使う開発ワークフロー、ハーネスエンジニアリング、AI-DLCに関する記事へのリンクを記録しています。</description>
     </item>
     <item>
-      <title>小学館のガバナンス不全を問う：相次ぐ不祥事とクリエイター保護の崩壊</title>
+      <title>小学館のガバナンスを問う：公式発表から考えるクリエイター保護</title>
       <link>https://geroof.github.io/posts/2026-02-28-post/</link>
       <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+      <description>小学館の公式発表と調査報告書の公表案内を参照し、原作者起用の判断、管理監督、クリエイター保護について考えます。</description>
     </item>
     <item>
-      <title>2026年衆院選：なぜリベラル左翼政党は惨敗したのか？〜「リアリズム」の勝利〜</title>
+      <title>2026年衆院選：左派敗北を「リアリズム」の視点で考える</title>
       <link>https://geroof.github.io/posts/2026-02-23-post/</link>
       <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+      <description>2026年衆院選について、確認できる議席数と筆者の考察を分け、経済成長、統治能力、野党の対案という視点から考えます。</description>
     </item>
     <item>
       <title>A Happy New Year 2026</title>
       <link>https://geroof.github.io/posts/2026-01-01-post/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+      <description>2025年に気になった技術や社会のニュースを振り返る、2026年の年始の記録です。</description>
     </item>
     <item>
       <title>2025年の技術的振り返り</title>
       <link>https://geroof.github.io/posts/2025-12-30-post/</link>
       <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+      <description>2025年に仕事や個人の活動で触れた技術を一覧にした振り返りです。利用した言語、開発環境、ツールなどを記録しています。</description>
     </item>
     <item>
       <title>Tidy First? ―個人で実践する経験主義的ソフトウェア設計</title>
       <link>https://geroof.github.io/posts/2025-09-21-post/</link>
       <pubDate>Sun, 21 Sep 2025 00:00:00 GMT</pubDate>
+      <description>『Tidy First?』の読書メモ。コードの整頓、そのタイミングを判断する管理術、背景にある理論について記しています。</description>
     </item>
     <item>
       <title>人が壊れるマネジメント　プロジェクトを始める前に知っておきたいアンチパターン</title>
       <link>https://geroof.github.io/posts/2025-09-20-post/</link>
       <pubDate>Sat, 20 Sep 2025 00:00:00 GMT</pubDate>
+      <description>『人が壊れるマネジメント』の読書メモ。マネジメントのアンチパターンに対する共感と、管理側に読んでほしいという思いを記しています。</description>
     </item>
     <item>
       <title>DNSがよくわかる教科書</title>
       <link>https://geroof.github.io/posts/2025-05-07-post/</link>
       <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
+      <description>『DNSがよくわかる教科書』の短い読書メモです。DNSの仕組みと運用を学ぶ入門書としての感想を記しています。</description>
     </item>
     <item>
       <title>アーキテクトの教科書 価値を生むソフトウェアのアーキテクチャ構築</title>
       <link>https://geroof.github.io/posts/2025-02-10-post/</link>
       <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
+      <description>『アーキテクトの教科書』の短い読書メモです。ソフトウェアアーキテクチャの知識を整理する本としての感想を記しています。</description>
     </item>
     <item>
       <title>A Happy New Year 2025</title>
       <link>https://geroof.github.io/posts/2025-01-01-post/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <description>2024年に気になった技術や社会のニュースを振り返る、2025年の年始の記録です。</description>
     </item>
     <item>
       <title>2024年の技術的振り返り</title>
       <link>https://geroof.github.io/posts/2024-12-30-post/</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
+      <description>2024年に仕事や個人の活動で触れた技術を一覧にした振り返りです。利用した言語、開発環境、ツールなどを記録しています。</description>
     </item>
     <item>
       <title>Web API設計実践入門──API仕様ファーストによるテスト駆動開発</title>
       <link>https://geroof.github.io/posts/2024-11-04-post/</link>
       <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
+      <description>『Web API設計実践入門』を読了した記録です。API仕様ファーストによるテスト駆動開発を扱う書籍へのリンクを掲載しています。</description>
     </item>
     <item>
       <title>［入門］ドメイン駆動設計――基礎と実践・クリーンアーキテクチャ (Software Design別冊)</title>
       <link>https://geroof.github.io/posts/2024-08-13-post/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 GMT</pubDate>
+      <description>『［入門］ドメイン駆動設計』の読書メモ。概念の説明、実践のプロセス、クリーンアーキテクチャの各章について記しています。</description>
     </item>
     <item>
       <title>崖っぷちだったアメリカ任天堂を復活させた男</title>
       <link>https://geroof.github.io/posts/2024-06-27-post/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
+      <description>『崖っぷちだったアメリカ任天堂を復活させた男』の読書メモ。行動、選択肢、組織文化、合意形成などのリーダーシップを振り返ります。</description>
     </item>
     <item>
       <title>はじめて学ぶ最新サイバーセキュリティ講義　「都市伝説」と「誤解」を乗り越え、正しい知識と対策を身につける</title>
       <link>https://geroof.github.io/posts/2024-05-28-post/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 GMT</pubDate>
+      <description>『はじめて学ぶ最新サイバーセキュリティ講義』の読書メモ。誤解やバイアスを避ける考え方と、技術以外の心構えに注目しています。</description>
     </item>
     <item>
       <title>世界一流エンジニアの思考法</title>
       <link>https://geroof.github.io/posts/2024-03-16-post/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 GMT</pubDate>
+      <description>『世界一流エンジニアの思考法』の読書メモ。集中、基礎の学習、批判から入らない姿勢やリーダーシップについて記しています。</description>
     </item>
     <item>
       <title>就職氷河期世代のキャリア形成とデフレ/インフレ論争について</title>
       <link>https://geroof.github.io/posts/2024-01-08-post/</link>
       <pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+      <description>就職氷河期世代の就業機会とキャリア形成について、物価、投資、雇用、賃金の関係を踏まえて考えた個人の意見です。</description>
     </item>
     <item>
       <title>A Happy New Year 2024</title>
       <link>https://geroof.github.io/posts/2024-01-01-post/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <description>2023年に気になった技術や社会のニュースを振り返る、2024年の年始の記録です。</description>
     </item>
     <item>
       <title>2023年の技術的振り返り</title>
       <link>https://geroof.github.io/posts/2023-12-26-post/</link>
       <pubDate>Tue, 26 Dec 2023 00:00:00 GMT</pubDate>
+      <description>2023年に仕事や個人の活動で触れた技術を一覧にした振り返りです。利用した言語、開発環境、ツールなどを記録しています。</description>
     </item>
     <item>
       <title>スタッフエンジニア　マネジメントを超えるリーダーシップ</title>
       <link>https://geroof.github.io/posts/2023-10-30-post/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 GMT</pubDate>
+      <description>『スタッフエンジニア』の読書メモ。人材育成、技術の長期計画、経営との橋渡しなど、技術者の役割について考えています。</description>
     </item>
     <item>
       <title>ユーザーの問題解決とプロダクトの成功を導く　エンジニアのためのドキュメントライティング</title>
       <link>https://geroof.github.io/posts/2023-08-14-post/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
+      <description>『エンジニアのためのドキュメントライティング』の読書メモ。ユーザー分析、文章構成、レビュー、保守などの作成プロセスを紹介しています。</description>
     </item>
     <item>
       <title>AWSではじめるクラウドセキュリティ: クラウドで学ぶセキュリティ設計/実装</title>
       <link>https://geroof.github.io/posts/2023-04-23-post/</link>
       <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
+      <description>『AWSではじめるクラウドセキュリティ』の読書メモ。責任共有モデル、セキュリティ設定、検知・検証サービスについて整理しています。</description>
     </item>
     <item>
       <title>プログラマーのためのCPU入門 CPUは如何にしてソフトウェアを高速に実行するか</title>
       <link>https://geroof.github.io/posts/2023-03-06-post/</link>
       <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
+      <description>『プログラマーのためのCPU入門』の読書メモ。キャッシュコヒーレンス、メモリ順序、不可分操作について学んだ感想です。</description>
     </item>
     <item>
       <title>AWSで実現するモダンアプリケーション入門 〜サーバーレス、コンテナ、マイクロサービスで何ができるのか</title>
       <link>https://geroof.github.io/posts/2023-02-26-post/</link>
       <pubDate>Sun, 26 Feb 2023 00:00:00 GMT</pubDate>
+      <description>『AWSで実現するモダンアプリケーション入門』の読書メモ。設計原則やSaga、フィーチャーフラグ、分散トレーシングへの関心を記しています。</description>
     </item>
     <item>
       <title>継続的デリバリーのソフトウェア工学　もっと早く、もっと良いソフトウェアを作るための秘訣</title>
       <link>https://geroof.github.io/posts/2023-02-21-post/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate>
+      <description>『継続的デリバリーのソフトウェア工学』の読書メモ。抽象化、ユニットテスト、継続的インテグレーションによる実験の重要性を記しています。</description>
     </item>
     <item>
       <title>プロジェクトマネジメント標準PMBOK入門: (PMBOK第7版対応版)</title>
       <link>https://geroof.github.io/posts/2023-01-03-post/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
+      <description>『PMBOK入門』第7版対応版の読書メモ。原理原則、不確実性への対応、アジャイルとテーラリングについて記しています。</description>
     </item>
     <item>
       <title>A Happy New Year 2023</title>
       <link>https://geroof.github.io/posts/2023-01-02-post/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 GMT</pubDate>
+      <description>2022年に気になった技術や社会のニュースを振り返る、2023年の年始の記録です。</description>
     </item>
     <item>
       <title>2022年の技術的振り返り</title>
       <link>https://geroof.github.io/posts/2022-12-28-post/</link>
       <pubDate>Wed, 28 Dec 2022 00:00:00 GMT</pubDate>
+      <description>2022年に仕事や個人の活動で触れた技術を一覧にした振り返りです。利用した言語、開発環境、ツールなどを記録しています。</description>
     </item>
     <item>
       <title>ソフトウェアテストをカイゼンする50のアイデア</title>
       <link>https://geroof.github.io/posts/2022-11-29-post/</link>
       <pubDate>Tue, 29 Nov 2022 00:00:00 GMT</pubDate>
+      <description>『ソフトウェアテストをカイゼンする50のアイデア』の書籍リンクを記録したページです。詳しい感想はまだ掲載していません。</description>
     </item>
     <item>
       <title>良いコード/悪いコードで学ぶ設計入門 ―保守しやすい 成長し続けるコードの書き方</title>
       <link>https://geroof.github.io/posts/2022-09-28-post/</link>
       <pubDate>Wed, 28 Sep 2022 00:00:00 GMT</pubDate>
+      <description>『良いコード／悪いコードで学ぶ設計入門』の読書メモ。設計知識の再点検と、利用する技術に合わせて適用する際の注意を記しています。</description>
     </item>
     <item>
       <title>ピアリング戦記 インターネットを繋ぐ技術者たち</title>
       <link>https://geroof.github.io/posts/2022-08-14-post/</link>
       <pubDate>Sun, 14 Aug 2022 00:00:00 GMT</pubDate>
+      <description>『ピアリング戦記』の読書メモ。ネットワーク同士を接続する技術と、交渉や組織の関係について感じたことを記しています。</description>
     </item>
     <item>
-      <title>Web集客・超入門2022【仕組み化対応】これを知らずにWebマーケティング成功はあり得ない！ホームページ集客成功のための基礎知識を徹底解説！ 1日速習シリーズ</title>
+      <title>Web集客・超入門2022：書籍メモ</title>
       <link>https://geroof.github.io/posts/2022-08-01-post/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
+      <description>『Web集客・超入門2022』の書籍リンクを記録したページです。感想や詳しい解説の本文はまだ掲載していません。</description>
     </item>
     <item>
       <title>システム運用アンチパターン</title>
       <link>https://geroof.github.io/posts/2022-06-19-post/</link>
       <pubDate>Sun, 19 Jun 2022 00:00:00 GMT</pubDate>
+      <description>『システム運用アンチパターン』の読書メモ。自動化、監視、デプロイ、振り返り、責任の共有などの改善点を整理しています。</description>
     </item>
     <item>
       <title>AWSコンテナ設計・構築【本格】入門</title>
       <link>https://geroof.github.io/posts/2022-04-23-post/</link>
       <pubDate>Sat, 23 Apr 2022 00:00:00 GMT</pubDate>
+      <description>『AWSコンテナ設計・構築【本格】入門』の読書メモ。ECS・Fargateを使うハンズオンと、追加で学びたい設計原則について記しています。</description>
     </item>
     <item>
       <title>A Happy New Year 2022</title>
       <link>https://geroof.github.io/posts/2022-01-01-post/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
+      <description>2021年に気になった技術や社会のニュースを振り返る、2022年の年始の記録です。</description>
     </item>
     <item>
       <title>図解即戦力 Google Cloudのしくみと技術がこれ1冊でしっかりわかる教科書</title>
       <link>https://geroof.github.io/posts/2021-12-31-post/</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
+      <description>『図解即戦力 Google Cloudのしくみと技術』の読書メモ。サービスの概要を学んだ感想と、今後触りたい分野を記しています。</description>
     </item>
     <item>
       <title>2021年の技術的振り返り</title>
       <link>https://geroof.github.io/posts/2021-12-30-post/</link>
       <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
+      <description>2021年に仕事や個人の活動で触れた技術を一覧にした振り返りです。利用した言語、開発環境、ツールなどを記録しています。</description>
     </item>
     <item>
       <title>図解即戦力 Web技術がこれ1冊でしっかりわかる教科書</title>
       <link>https://geroof.github.io/posts/2021-11-27-post/</link>
       <pubDate>Sat, 27 Nov 2021 00:00:00 GMT</pubDate>
+      <description>『図解即戦力 Web技術』の読書メモ。HTTP、HTML、ネットワーク、サーバー、クラウドの概要について記しています。</description>
     </item>
     <item>
       <title>図解即戦力 暗号と認証のしくみと理論がこれ1冊でしっかりわかる教科書</title>
       <link>https://geroof.github.io/posts/2021-10-23-post/</link>
       <pubDate>Sat, 23 Oct 2021 00:00:00 GMT</pubDate>
+      <description>『図解即戦力 暗号と認証のしくみと理論』の読書メモ。2021年時点の暗号・認証の概要を学び直す本としての感想です。</description>
     </item>
     <item>
       <title>プロセスエコノミー あなたの物語が価値になる</title>
       <link>https://geroof.github.io/posts/2021-10-10-post/</link>
       <pubDate>Sun, 10 Oct 2021 00:00:00 GMT</pubDate>
+      <description>『プロセスエコノミー』の読書メモ。過程を公開して収益を得る方法と、常に評価されることへの懸念を記しています。</description>
     </item>
     <item>
       <title>デジタルアイデンティティー 経営者が知らないサイバービジネスの核心</title>
       <link>https://geroof.github.io/posts/2021-08-15-post/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 GMT</pubDate>
+      <description>『デジタルアイデンティティー』の読書メモ。経営の視点から認証・認可の概念や仕組みに触れた感想を記しています。</description>
     </item>
     <item>
       <title>ユニコーン企業のひみつ</title>
       <link>https://geroof.github.io/posts/2021-06-19-post/</link>
       <pubDate>Sat, 19 Jun 2021 00:00:00 GMT</pubDate>
+      <description>『ユニコーン企業のひみつ』の読書メモ。自律的な組織文化とフィーチャーフラグについて、実務への関心を記しています。</description>
     </item>
     <item>
       <title>ソフトウェア品質を高める開発者テスト アジャイル時代の実践的・効率的なテストのやり方</title>
       <link>https://geroof.github.io/posts/2021-06-02-post/</link>
       <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
+      <description>『ソフトウェア品質を高める開発者テスト』の読書メモ。境界値・状態遷移テスト、CI、ユニットテストの実践について記しています。</description>
     </item>
     <item>
       <title>モノリスからマイクロサービスへ ―モノリスを進化させる実践移行ガイド</title>
       <link>https://geroof.github.io/posts/2021-05-05-post/</link>
       <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+      <description>『モノリスからマイクロサービスへ』の読書メモ。移行の必要性、組織、サービスとデータベースの分割に伴う判断を整理しています。</description>
     </item>
     <item>
       <title>Engineers in VOYAGE ― 事業をエンジニアリングする技術者たち</title>
       <link>https://geroof.github.io/posts/2021-04-17-post/</link>
       <pubDate>Sat, 17 Apr 2021 00:00:00 GMT</pubDate>
+      <description>『Engineers in VOYAGE』の読書メモ。サービスやシステムを支える開発現場の改善と、設計思想について感じたことを記しています。</description>
     </item>
     <item>
       <title>Webブラウザセキュリティ Webアプリケーションの安全性を支える仕組みを整理する</title>
       <link>https://geroof.github.io/posts/2021-03-30-post/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 GMT</pubDate>
+      <description>『Webブラウザセキュリティ』の読書メモ。SOP、CORS、CSP、プロセス分離、Cookieなど、ブラウザの安全性を支える仕組みを振り返ります。</description>
     </item>
     <item>
       <title>達人プログラマー(第2版): 熟達に向けたあなたの旅</title>
       <link>https://geroof.github.io/posts/2021-02-28-post/</link>
       <pubDate>Sun, 28 Feb 2021 00:00:00 GMT</pubDate>
+      <description>『達人プログラマー』第2版の読書メモ。扱う技術の刷新やクラウド・セキュリティに関する追加内容について記しています。</description>
     </item>
     <item>
       <title>A Happy New Year 2021</title>
       <link>https://geroof.github.io/posts/2021-01-01-post/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
+      <description>2020年に気になった技術や社会のニュースを振り返る、2021年の年始の記録です。</description>
     </item>
     <item>
       <title>2020年の技術的振り返り</title>
       <link>https://geroof.github.io/posts/2020-12-29-post/</link>
       <pubDate>Tue, 29 Dec 2020 00:00:00 GMT</pubDate>
+      <description>2020年に仕事や個人の活動で触れた技術を一覧にした振り返りです。利用した言語、開発環境、ツールなどを記録しています。</description>
     </item>
     <item>
       <title>Who You Are(フーユーアー)君の真の言葉と行動こそが困難を生き抜くチームをつくる</title>
       <link>https://geroof.github.io/posts/2020-12-21-post/</link>
       <pubDate>Mon, 21 Dec 2020 00:00:00 GMT</pubDate>
+      <description>『Who You Are』の読書メモ。行動規範、リーダーの実践、組織に合う文化の作り方について印象に残った点をまとめています。</description>
     </item>
     <item>
       <title>Reactビギナーズガイド</title>
       <link>https://geroof.github.io/posts/2020-11-16-post/</link>
       <pubDate>Mon, 16 Nov 2020 00:00:00 GMT</pubDate>
+      <description>『Reactビギナーズガイド』の読書メモ。状態更新による描画やFlux、Reduxなどについて学んだ点を記しています。</description>
     </item>
     <item>
       <title>10年つかえるSEOの基本</title>
       <link>https://geroof.github.io/posts/2020-10-27-post/</link>
       <pubDate>Tue, 27 Oct 2020 00:00:00 GMT</pubDate>
+      <description>『10年つかえるSEOの基本』の読書メモ。情報への到達しやすさ、コンテンツの品質、リンクなどの基本を記しています。</description>
     </item>
     <item>
       <title>オブジェクト指向UIデザイン──使いやすいソフトウェアの原理</title>
       <link>https://geroof.github.io/posts/2020-10-10-post/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 GMT</pubDate>
+      <description>『オブジェクト指向UIデザイン』の読書メモ。タスクをそのまま画面にする設計と、オブジェクトを中心に考える設計を整理しています。</description>
     </item>
     <item>
       <title>More Effective Agile 〜 ソフトウェアリーダーになるための28の道標</title>
       <link>https://geroof.github.io/posts/2020-09-12-post/</link>
       <pubDate>Sat, 12 Sep 2020 00:00:00 GMT</pubDate>
+      <description>『More Effective Agile』の読書メモ。スクラム、チームでの問題解決、テストやCI/CDについて印象に残った点を記しています。</description>
     </item>
     <item>
       <title>A Happy New Year 2020</title>
       <link>https://geroof.github.io/posts/2020-01-01-post/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+      <description>2019年に気になった技術や社会のニュースを振り返る、2020年の年始の記録です。</description>
     </item>
     <item>
       <title>2019年の技術的振り返り</title>
       <link>https://geroof.github.io/posts/2019-12-29-post/</link>
       <pubDate>Sun, 29 Dec 2019 00:00:00 GMT</pubDate>
+      <description>2019年に仕事や個人の活動で触れた技術を一覧にした振り返りです。利用した言語、開発環境、ツールなどを記録しています。</description>
     </item>
     <item>
       <title>A Happy New Year 2019</title>
       <link>https://geroof.github.io/posts/2019-01-01-post/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate>
+      <description>2018年に気になった技術や社会のニュースを振り返る、2019年の年始の記録です。</description>
     </item>
     <item>
       <title>2018年の技術的振り返り</title>
       <link>https://geroof.github.io/posts/2018-12-23-post/</link>
       <pubDate>Sun, 23 Dec 2018 00:00:00 GMT</pubDate>
+      <description>2018年に仕事や個人の活動で触れた技術を一覧にした振り返りです。利用した言語、開発環境、ツールなどを記録しています。</description>
     </item>
     <item>
       <title>A Happy New Year 2018</title>
       <link>https://geroof.github.io/posts/2018-01-01-post/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
+      <description>2017年に気になった技術や社会のニュースを振り返る、2018年の年始の記録です。</description>
     </item>
     <item>
       <title>2017年の技術的振り返り</title>
       <link>https://geroof.github.io/posts/2017-12-30-post/</link>
       <pubDate>Sat, 30 Dec 2017 00:00:00 GMT</pubDate>
+      <description>2017年に仕事や個人の活動で触れた技術を一覧にした振り返りです。利用した言語、開発環境、ツールなどを記録しています。</description>
     </item>
     <item>
       <title>A Happy New Year 2017</title>
       <link>https://geroof.github.io/posts/2017-01-01-post/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 GMT</pubDate>
+      <description>2016年に気になった技術や社会のニュースを振り返る、2017年の年始の記録です。</description>
     </item>
     <item>
       <title>A Happy New Year 2016</title>
       <link>https://geroof.github.io/posts/2016-01-01-post/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate>
+      <description>2015年に気になった技術や社会のニュースを振り返る、2016年の年始の記録です。</description>
     </item>
     <item>
       <title>A Happy New Year 2015</title>
       <link>https://geroof.github.io/posts/2015-01-03-post/</link>
       <pubDate>Sat, 03 Jan 2015 00:00:00 GMT</pubDate>
+      <description>2014年に気になった技術や社会のニュースを振り返る、2015年の年始の記録です。</description>
     </item>
     <item>
       <title>あけおめことよろ2014</title>
       <link>https://geroof.github.io/posts/2014-01-01-post/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 GMT</pubDate>
+      <description>2013年に気になった技術や社会のニュースを振り返る、2014年の年始の記録です。</description>
     </item>
     <item>
       <title>あけおめことよろ2013</title>
       <link>https://geroof.github.io/posts/2013-01-01-post/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 GMT</pubDate>
+      <description>2012年に気になった技術や社会のニュースを振り返る、2013年の年始の記録です。</description>
     </item>
     <item>
       <title>あけおめことよろ2012</title>
       <link>https://geroof.github.io/posts/2012-01-01-post/</link>
       <pubDate>Sat, 31 Dec 2011 00:00:00 GMT</pubDate>
+      <description>2011年に気になった技術や社会のニュースを振り返る、2012年の年始の記録です。</description>
     </item>
     <item>
       <title>あけおめことよろ2011</title>
       <link>https://geroof.github.io/posts/2011-01-07-post/</link>
       <pubDate>Fri, 07 Jan 2011 00:00:00 GMT</pubDate>
+      <description>2010年に気になった技術や社会のニュースを振り返る、2011年の年始の記録です。</description>
     </item>
     <item>
       <title>あけおめことよろ2010</title>
       <link>https://geroof.github.io/posts/2010-01-03-post/</link>
       <pubDate>Sun, 03 Jan 2010 00:00:00 GMT</pubDate>
+      <description>2009年に気になった技術や社会のニュースを振り返る、2010年の年始の記録です。</description>
     </item>
     <item>
       <title>あけおめことよろ2009</title>
       <link>https://geroof.github.io/posts/2009-01-01-post/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 GMT</pubDate>
+      <description>2008年に気になった技術や社会のニュースを振り返る、2009年の年始の記録です。</description>
     </item>
   </channel>
 </rss>
